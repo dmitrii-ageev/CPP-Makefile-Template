@@ -31,5 +31,5 @@ The Makefile provides the following targets to make:
 ```
 
 ## Author
-  [Dmitrii Ageev] (https://www.linkedin.com/in/dmitrii-ageev/)
-
+  Dmitrii Ageev <d.ageev@gmail.com>
+  
