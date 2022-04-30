@@ -1,4 +1,4 @@
-# MakefileTemplate
+# C++ Makefile Template
 A Generic Makefile Template for C++ Projects
 
 ## Description
